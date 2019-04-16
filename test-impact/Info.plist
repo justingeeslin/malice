@@ -41,5 +41,7 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+    <key>NSMotionUsageDescription</key>
+    <string>For detecting when some terrible has happened to you or your device</string>
 </dict>
 </plist>
